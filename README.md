@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to BIG-com's GitHub</h1>
 <h3 align="center">Hi 👋, I'm BIG-com, a passionate developer from Korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BIG-com&label=Profile%20views&color=0e75b6&style=flat" alt="BIG-com" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-username" alt="your-username" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BIG-com" alt="BIG-com" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development, Node.js, and Game Programming**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="https://github.com/your-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="your-username" height="30" width="40" /></a>
+<a href="https://github.com/BIG-com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="BIG-com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,11 +31,11 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact" alt="your-username" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BIG-com&show_icons=true&locale=en&layout=compact" alt="BIG-com" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BIG-com&show_icons=true&locale=en" alt="BIG-com" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&" alt="your-username" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BIG-com&" alt="BIG-com" /></p>
 <!--
 **BIG-com/BIG-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
