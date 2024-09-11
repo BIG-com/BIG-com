@@ -12,25 +12,23 @@
     Hi 👋, I'm BIG-com, a passionate developer from Korea</h3>
 </p>
 
+
+
+
+---
+
+
+
+---
+
+
+
+---
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=BIG-com&theme=onedark" alt="BIG-com" />
   </a>
 </p>
-
-
-
----
-
-
-
----
-
-
-
----
-
-
 ---
 
 <h3 align="center">
