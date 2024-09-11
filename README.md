@@ -6,7 +6,7 @@
 
 <h3 align="center">Hi 👋, I'm BIG-com, a passionate developer from Korea</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=BIG-com&label=Profile%20views&color=0e75b6&style=plastic" alt="BIG-com" />
 </p>
 
