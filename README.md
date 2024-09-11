@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  Welcome to BIG-com's GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/BIG-com/blog_image_repo/main/img/Welcome to.gif" alt="welcomeMainImg">
 </h1>
 
 <h3 align="center">Hi 👋, I'm BIG-com, a passionate developer from Korea</h3>
