@@ -28,9 +28,12 @@
 
 ---
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Skill ✨</h3>
+<div align="center">
+  
+  
+</div>
 
-<h3 align="center">🛠 Tools 🛠</h3>
 
 ---
 
