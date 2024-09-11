@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/BIG-com/blog_image_repo/main/img/Welcome to.gif" alt="welcomeMainImg">
+  <a href="https://BIG-com.github.io">
+      <img src="https://raw.githubusercontent.com/BIG-com/blog_image_repo/main/img/Welcome to.gif" alt="welcomeMainImg">
+  </a>
 </h1>
 
 <h3 align="center">Hi 👋, I'm BIG-com, a passionate developer from Korea</h3>
