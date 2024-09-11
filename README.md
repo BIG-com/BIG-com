@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Java, JavaScript, MySQL, C**
 
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **page961112@gmail.com**
 
 - 📄 Know about my experiences [Link to your CV or Portfolio]
 
